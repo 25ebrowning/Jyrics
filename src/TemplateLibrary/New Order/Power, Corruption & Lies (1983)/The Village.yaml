@@ -1,0 +1,47 @@
+components:
+  - type: "Verse 1"
+    lines:
+      - "When a new life turns towards you"
+      - "And teh night becomes the day"
+      - "We shall remain forever"
+      - "Everyone who meets this way"
+
+  - type: "Chorus"
+    lines:
+      - "Oh, our love is like the flowers"
+      - "The rain, the sea and the hours"
+      - "Oh, our love islike the flowers"
+      - "The rain, the sea and the hours, ooh oh"
+
+  - type: "Verse 2"
+    lines:
+      - "When the rain falls to the sea"
+      - "They'll be waiting for you and for me"
+      - "And the sky reflects our image"
+      - "Trying to sleep right through our lives"
+
+  - type: "Chorus"
+    lines:
+      - "Oh, our love is like the earth"
+      - "The sun, the trees and the birth"
+      - "Oh, our love is like the earth"
+      - "The sun, the trees and the birth, ooh"
+
+  - type: "Verse 3"
+    lines:
+      - "I am still here two days later"
+      - "Same place, same time"
+      - "And I'm stuck here two years too long"
+      - "Same place, the wrong time"
+
+  - type: "Chorus"
+    lines:
+      - "Oh, our love is like the flowers"
+      - "The rain, the sea and the hours"
+      - "Oh, our love is like the flowers"
+      - "The rain, the sea and the hours"
+
+  - type: "Outro"
+    lines:
+      - "Their love died three years ago"
+      - "Spoken words I cannot show"

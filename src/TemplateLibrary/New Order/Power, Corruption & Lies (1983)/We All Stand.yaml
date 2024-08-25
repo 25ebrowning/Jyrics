@@ -1,0 +1,52 @@
+components:
+  - type: "Verse 1"
+    lines:
+      - "Three miles to go"
+      - "Three miles to go"
+      - "At the end of the road"
+      - "There's a soldier waiting for me"
+
+  - type: "Chorus 1"
+    lines:
+      - "I've got three miles to go"
+      - "Three miles to go"
+      - "At the end of the road"
+      - "There's a soldier waiting for me"
+
+  - type: "Bridge"
+    lines:
+      - "At the end of the road"
+      - "At the end of the road"
+      - "At the end of the road"
+
+  - type: "Verse 2"
+    lines:
+      - "Life goes on and on in this real life fantasy"
+      - "Forever to be still, breath held tight inside of me"
+      - "Life goes on and on in this real life fantasy"
+      - "Forever to be still, breath held tight inside of me"
+      - "Life goes on and on"
+
+  - type: "Chorus 2"
+    lines:
+      - "It's a red sky tonight"
+      - "It's a red sky tonight"
+      - "At the end of the road"
+      - "Where all futures go"
+      - "At the end of the road"
+
+  - type: "Verse 3"
+    lines:
+      - "There's a soldier waiting for me"
+      - "He's got three miles to go"
+      - "Three miles to go"
+      - "At the end of the road"
+      - "At the end of the road"
+      - "There's blood on shore"
+
+  - type: "Chorus 3"
+    lines:
+      - "Life goes on and on in this real life fantasy"
+      - "Forever to be still, breath held tight inside of me"
+      - "Life goes on and on in this real life fantasy"
+      - "Forever to be still, breath held tight inside of me"

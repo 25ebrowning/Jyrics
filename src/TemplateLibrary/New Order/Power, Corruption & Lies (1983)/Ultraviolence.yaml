@@ -1,0 +1,37 @@
+components:
+  - type: "Verse 1"
+    lines:
+      - "Who saw those dark eyes?"
+      - "Who saw those dark eyes?"
+      - "These years gone by"
+      - "Deep within"
+      - "Burn my skin"
+      - "All those years gone by"
+      - "In the heat of the night"
+      - "All those years gone by"
+
+  - type: "Verse 2"
+    lines:
+      - "Who felt those cold hands?"
+      - "Who felt those cold hands?"
+      - "Touch my skin"
+      - "Deep within"
+      - "Burn my soul"
+      - "Fell to the ground where I was found"
+      - "All those years ago"
+      - "All those years ago"
+      - "All those years ago"
+
+  - type: "Chorus"
+    lines:
+      - "Everybody makes mistakes"
+      - "Everybody makes mistakes"
+      - "Even me"
+      - "Just be free"
+      - "This is a place where in the end"
+      - "It happens in our world within"
+
+  - type: "Outro"
+    lines:
+      - "Time to go"
+      - "Time to go"

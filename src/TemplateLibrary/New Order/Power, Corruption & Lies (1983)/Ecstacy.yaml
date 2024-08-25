@@ -1,0 +1,42 @@
+components:
+- type: "Verse 1"
+  lines:
+    - "You were so lonely"
+    - "Was the worst"
+    - "Was the worst"
+    - "Was the worst"
+
+- type: "Verse 2"
+  lines:
+    - "You were so simple"
+    - "You were so cold"
+    - "Ecstasy, touch me please"
+
+- type: "Refrain"
+  lines:
+    - "Lost"
+    - "You were, you were your worst"
+    - "You were so cold"
+    - "You were lost"
+
+- type: "Bridge"
+  lines:
+    - "In your house"
+    - "In your soul"
+    - "In your eye, tainted coal"
+    - "Patient"
+
+- type: "Refrain"
+  lines:
+    - "You were so cold, you were so lost"
+    - "You were so cold, you were so lost"
+    - "(Now you are an all time loss)"
+
+- type: "Outro"
+  lines:
+    - "You were so close to me"
+    - "So long"
+    - "So lost now"
+    - "So lost"
+    - "So long"
+    - "So lost, so lost"
